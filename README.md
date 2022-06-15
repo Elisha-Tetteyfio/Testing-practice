@@ -1,72 +1,46 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Testing Practice
 
-> Description the project.
+> An exercise illustrating testing with Jest.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- JavaScript
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- JavaScript
 ### Setup
+- run `git clone https://github.com/Elisha-Tetteyfio/Testing-practice.git` in your command line.
+- Switch to the project's directory.
 
 ### Install
+- Node
+- Jest
 
-### Usage
+## Author
 
-### Run tests
+👤 **Elisha Tetteyfio**
 
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Elisha-Tetteyfio)
+- Twitter: [@twitterhandle](https://twitter.com/Nii_Alyasa)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/elisha-tetteyfio)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Elisha-Tetteyfio/Testing-practice/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
