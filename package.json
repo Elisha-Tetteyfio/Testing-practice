@@ -1,0 +1,19 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elisha-Tetteyfio/Testing-practice.git"
+  },
+  "author": "Elisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elisha-Tetteyfio/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Elisha-Tetteyfio/Testing-practice#readme"
+}
